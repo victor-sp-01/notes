@@ -300,6 +300,7 @@
 }   .div__TehZg h3{
         font-size: 23px;
         color: #ffffff;
+        text-align: center;
     }
     .div__TehZg img{
         width: min( 50%, 80px );
